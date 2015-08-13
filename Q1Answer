@@ -1,0 +1,8 @@
+Q1:
+These are the 2 training examples we need to feed the program for it to exactly
+learn the given target concept.
+
+vector<vector<string>> training_instances = {
+	{"Sunny", "Warm", "Normal", "Strong", "Warm", "Same", "Yes"},
+	{"Sunny", "Warm", "High", "Weak", "Cool", "Change", "Yes"}
+};

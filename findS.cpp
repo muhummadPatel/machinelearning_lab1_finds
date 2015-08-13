@@ -26,8 +26,6 @@ vector<vector<string>> training_instances = {
 	{"Sunny", "Warm", "High", "Strong", "Warm", "Same", "Yes"},
 	{"Rainy", "Cold", "High", "Strong", "Warm", "Change", "No"},
 	{"Sunny", "Warm", "High", "Strong", "Cool", "Change", "Yes"}
-	//If we add this, we get the answer to Q1
-	//{"Sunny", "Warm", "Normal", "Weak", "Warm", "Same", "Yes"}
 };
 
 int main(){
